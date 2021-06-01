@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MBC-Seoul" tvg-name="MBC-Seoul" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/440px-Munhwa_Broadcasting_Company.svg.png" group-title="PUBLIC",MBC-Seoul
+http://ottlivepresd.imbc.com/ottlive_pre_sd/_definst_/preview_sd.stream/chunklist.m3u8?_lsu_sa_=6D51B411832B32B49B42F57933E1034AC5313EC5EC0CA2073DA098a8064231562EaEC3A338C2EF46805F3D51E8bE418C798EFF20863D13AE299CE5FDC0BC76A63FF77976BBF48E858BAFD193BE7C7CB1850F48797E00236D80854CB08411C4324FE0722650E09A143A8C638B2466FC81A66E23286262479B65F5A182E3863A07&v=3
+#EXTINF:-1 tvg-id="" tvg-name="KBS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Kbs_1_logo.svg/220px-Kbs_1_logo.svg.png" group-title="PUBLIC",KBS1
+https://1tvhd.gscdn.kbs.co.kr/1tv-02/1tv-02_hd.m3u8?Expires=1625165011&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHZoZC5nc2Nkbi5rYnMuY28ua3IvMXR2LTAyLzF0di0wMl9oZC5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjIyNjY2MDE4fX19XX0_&Signature=D8Pi-1prtqMqBH2RxNEP~YxxHkCFY3V9eEpAtTnwEQLrFPdMDDH8KfmNEwO2KjiVdKhHoWp8zvFWWZv7hHL3PKw25ZoMSWPrjpSSSnBEzq77LMplXn~3lOiFY3Wv5LDWuPv2-hyOrI0UdawGKWX7bakEeXGEQC4LmEAYy1hCGSvHDDmmSHCp7ScII4m5sUPx34oPElVGiIDma6pBMV-zf-v3rgInavtf3hvmKaAcltW6Yw1tNGtDxZXw70JLyKBW6mcihaazueMk6JaZjvror-U08-50n-7IT6TODiIuI2rbs5pUBqY4sJoy~oc8YzRroiIMMiPGuDj3tAmV28Gqpw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:-1 tvg-id="" tvg-name="KBS2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/200px-KBS_2_logo.svg.png" group-title="PUBLIC",KBS2
+https://2tvhd.gscdn.kbs.co.kr/2tv-02/2tv-02_hd.m3u8?Expires=1625165011&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHZoZC5nc2Nkbi5rYnMuY28ua3IvMnR2LTAyLzJ0di0wMl9oZC5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjIyNjU4MjI3fX19XX0_&Signature=cSjWzCTxvrgUpY1nHWaknPG7eHLGFHNchJnyeN-1raugIs4FAGvS2lr3NHP8SCf1NsBlc8oA1wK9O~Z~M3G018DdDuqRDzMq370gvu~maQ0tfkSDCR1xJb0Goig16pIlfbMdA4SFmGxdCLyKmEG7gSOn67Vlv--s32EM1TCOE4OZNhDhZadGjbgsJLvW6JsuB0QsbhhhHAGGo7~9RXcqif~4i2BWhJF9N~dgd7jXWPclifosPp48k2I2pLl5c6CNHylRbEhCcZOZITrz6nglMmxh3J1~E85L9qnsyxRWhCnjTfP3jH-M-197Gq2rgMkmXrYBfchsY6hHGTQ6WG~-Tg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:-1 tvg-id="" tvg-name="EBS1" tvg-logo="https://en.wikipedia.org/wiki/File:EBS_1TV_Logo.png" group-title="PUBLIC",EBS1
+http://1.214.67.100/vod/50501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1 tvg-id="" tvg-name="EBS2-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/EBS_Logo.svg/120px-EBS_Logo.svg.png" group-title="PUBLIC",EBS2-1
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/chunklist_w1181452492.m3u8
+#EXTINF:-1 tvg-id="EBS1-1" tvg-name="EBS1-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/EBS_Logo.svg/120px-EBS_Logo.svg.png" group-title="PUBLIC",EBS1-1
+https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EBS2-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/EBS_Logo.svg/120px-EBS_Logo.svg.png" group-title="PUBLIC",EBS2-2
+http://test.com
+#EXTINF:-1 tvg-id="" tvg-name="OBS" tvg-logo="https://upload.wikimedia.org/wikipedia/ko/thumb/5/5a/OBS-Logo.JPG/150px-OBS-Logo.JPG" group-title="PUBLIC",OBS
+http://1.214.67.100/vod/59601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1 tvg-id="" tvg-name="SBS" tvg-logo="" group-title="PUBLIC",SBS
+http://tvlive.sbs.co.kr/sbsch6/sbsch61.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MjI0OTMyNTMsInBhdGgiOiIvc2JzY2g2MS5zdHJlYW0iLCJkdXJhdGlvbiI6MTgwLCJ1bm8iOiI1MzJkYWFjMS0yMTUwLTRlYTItODJhZC03ODg1ZmY3ZDAxNmQiLCJpYXQiOjE2MjI0OTMwNzN9.f9sDvlKM5QCfElUWum5au_Oi-ZTqedChCj_BjCz4qqI&solsessionid=135427d384bf652f2c6d9367a29d95b1
+#EXTINF:-1 tvg-id="" tvg-name="JTBC-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/JTBC_logo.svg/200px-JTBC_logo.svg.png" group-title="PP",JTBC-1
+http://1.214.67.100/vod/74701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1 tvg-id="" tvg-name="JTBC-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/JTBC_logo.svg/200px-JTBC_logo.svg.png" group-title="PP",JTBC-2
+http://1.214.67.208/vod/74701.m3u8?SessionID=222da691-54d6-4ff5-b350-ae9845b2bca9&VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1 tvg-id="" tvg-name="MBN-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/MBN_Logo.jpg/220px-MBN_Logo.jpg" group-title="PP",MBN-2
+http://1.214.67.30/vod/75001.m3u8?SessionID=2ac8aba6-0f64-4f98-8e34-8f9c7541d249&VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1 tvg-id="" tvg-name="MBN-1" tvg-logo="" group-title="PP",MBN-1
+http://211.170.95.16/vod/75001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1 tvg-id="" tvg-name="MBN-3" tvg-logo="" group-title="PP",MBN-3
+http://1.214.67.100/vod/75001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1 tvg-id="" tvg-name="CHANNELA-1" tvg-logo="" group-title="PP",CHANNELA-1
+http://1.214.67.208/vod/74901.m3u8?SessionID=dc2b8b52-0737-4501-80e7-fd46698d5f15&VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1 tvg-id="" tvg-name="CHANNELA--2" tvg-logo="" group-title="PP",CHANNELA--2
+http://1.214.67.100/vod/74901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1 tvg-id="" tvg-name="TV CHOSUN-1" tvg-logo="" group-title="PP",TV CHOSUN-1
+http://1.214.67.26/vod/74601.m3u8?SessionID=04e5fa86-84e9-4445-95ad-0403834f82f3&VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1 tvg-id="" tvg-name="TV CHOSUN-2" tvg-logo="" group-title="PP",TV CHOSUN-2
+http://1.214.67.100/vod/74601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1 tvg-id="" tvg-name="YTN-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/120px-YTN_logo_2014.svg.png" group-title="CABLE",YTN-1
+http://1.214.67.204/vod/69801.m3u8?SessionID=b00f7b77-0909-4b4d-8d51-f27b499e9fad&VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1 tvg-id="" tvg-name="YTN-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/120px-YTN_logo_2014.svg.png" group-title="CABLE",YTN-2
+http://1.214.67.26/vod/69801.m3u8?SessionID=7d22f6c3-6dc9-46ae-ab53-a7166e445d44&VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1 tvg-id="" tvg-name="YTN-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/120px-YTN_logo_2014.svg.png" group-title="CABLE",YTN-3
+http://1.214.67.100/vod/69801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1 tvg-id="" tvg-name="YTN-4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/120px-YTN_logo_2014.svg.png" group-title="CABLE",YTN-4
+http://1.214.67.40/vod/69801.m3u8?SessionID=92d640ce-a860-4879-9d33-60c87c48ed40&VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1 tvg-id="" tvg-name="YTN-5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/120px-YTN_logo_2014.svg.png" group-title="CABLE",YTN-5
+plugin://plugin.video.youtube/play/?video_id=GoXPbGQl-uQ
+#EXTINF:-1 tvg-id="" tvg-name="YONHAPNEWS-1" tvg-logo="https://www.yonhapnewstv.co.kr/asset/img/common/img_logo_yhntv_navy.png" group-title="CABLE",YONHAPNEWS-1
+http://1.214.67.208/vod/73401.m3u8?SessionID=275d4b37-e34c-4b01-94cd-43cf8d267b21&VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1 tvg-id="" tvg-name="YONHAPNEWS-2" tvg-logo="https://www.yonhapnewstv.co.kr/asset/img/common/img_logo_yhntv_navy.png" group-title="CABLE",YONHAPNEWS-2
+http://1.214.67.26/vod/73401.m3u8?SessionID=3ba7a95f-46a8-406e-a326-ece6d8527c8d&VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1 tvg-id="" tvg-name="YONHAPNEWS-3" tvg-logo="https://www.yonhapnewstv.co.kr/asset/img/common/img_logo_yhntv_navy.png" group-title="CABLE",YONHAPNEWS-3
+http://1.214.67.100/vod/73403.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1 tvg-id="" tvg-name="WOW TV" tvg-logo="https://img.wowtv.co.kr/PcStyle/images/common/img_logo.png" group-title="CABLE",WOW TV
+plugin://plugin.video.youtube/play/?video_id=v3Qx3AiSRuc
+#EXTINF:-1 tvg-id="" tvg-name="MBN money TV" tvg-logo="https://img.mk.co.kr/main/2020/l_mk.gif" group-title="CABLE",MBN money TV
+plugin://plugin.video.youtube/play/?video_id=pOreEkKiJik
+#EXTINF:-1 tvg-id="" tvg-name="KBS24" tvg-logo="https://news.kbs.co.kr/resources/images/v1/common/logo-txt-24news.png" group-title="CABLE",KBS24
+https://news24.gscdn.kbs.co.kr/news24-02/news24-02_hd.m3u8?Expires=1625165011&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9uZXdzMjQuZ3NjZG4ua2JzLmNvLmtyL25ld3MyNC0wMi9uZXdzMjQtMDJfaGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYyMjY2NDgyNX19fV19&Signature=UjorbpqXFfgyC1SuBi1DnpckTnconsVYsmsdOzNZEZQCyrHTw7~5r1vccCti97x1-tZmwl7OS8LT-pssk6ck8CpFIEen~xoykMW7gnnRiTZwYJ07-xOVA~Sm5RMlUuXLgalSAA076K9pw5a-k9pWDbpRSy9kKmR8RjF8fdKodhgCEM1HokY5nVQk2Ulw4-1XxcGdZv-bud1g6HLP2zHgNrUMLOeYO14JdoDWHDBEK7yYrHhmAPXLyv3KQkv7T2~NhxAK6BV-klS0tqJe0CjTizZfm7393RzTgjCC7sgTPYkv~PeZZ7bSyUVCLRjyRsnlkxgpeexEAWgKOnFbrAKiag__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:-1 tvg-id="" tvg-name="ARIRANG TV" tvg-logo="" group-title="CABLE",ARIRANG TV
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
